@@ -35,13 +35,16 @@
 
 I am a Software Engineer and Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m currently learning Software Engineering at ALX-Africa, while still working full-time as a frontend developer.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Backend and Mobile Development.
+- 👯 I seek opportunities and collaborations on projects related to frontend, backend or artificial intelligence
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 💬 Chat me up on +234-813-238-0951 or +234-808-911-2717
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/adeniyi-aderehinwo)
+- :zap: In my free time, I try to build connections and catch up on trending technologies and events.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adeniyi-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/adeniyi-aderehinwo)
 
 ---
 
