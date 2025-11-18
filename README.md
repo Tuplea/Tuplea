@@ -78,9 +78,9 @@ I am a Software Engineer and Frontend Developer <img src="https://media.giphy.co
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
+- [Propel Your Engineering Business to New Heights with a Professional Engineering Website](https://dev.to/tuplea/propel-your-engineering-business-to-new-heights-with-a-professional-engineering-website-4ifo)
+- [Enhance Your Healthcare Business, Healthcare Center, Pharmacy Store or Hospital with Professional Website](https://dev.to/tuplea/enhance-your-healthcare-business-healthcare-center-pharmacy-store-or-hospital-with-professional-website-1pme)
+- [Digital Solutions for Schools and Educational Institutions](https://dev.to/tuplea/digital-solutions-for-schools-and-educational-institutions-4mad)
+- [See Learning Coding as Learning Music](https://dev.to/tuplea/see-learning-coding-as-learning-music-45li)
+- [Top 5 Skills Essential for Every Web Developer](https://dev.to/tuplea/top-5-skills-essential-for-every-web-developer-28a6)
 <!-- BLOG-POST-LIST:END -->
