@@ -33,9 +33,9 @@
 
 ### :man_technologist: About Me :
 
-I am a Software Engineer and Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+I am a Software Engineer, CAD expert (AutoCAD, Plant 3D, SolidWorks, Plant Simulation, Cinema4D etc) and IT instructor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :telescope: I’m currently learning Software Engineering at ALX-Africa, while still working full-time as a frontend developer.
+- :telescope: I’m currently leading the team at Tuplea ICT Solutions and Technologies LTD (www.tuplea.com.ng), and freelancing as a side hustle.
 
 - :seedling: Exploring Backend and Mobile Development.
 - 👯 I seek opportunities and collaborations on projects related to frontend, backend or artificial intelligence
