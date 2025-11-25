@@ -44,7 +44,7 @@ I am a Software Engineer, CAD expert (AutoCAD, Plant 3D, SolidWorks, Plant Simul
 
 - :zap: In my free time, I try to build connections and catch up on trending technologies and events.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adeniyi-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/adeniyi-aderehinwo)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adeniyi-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/adeniyi-aderehinwo) or visit my website at www.theadeadeniyi.com.ng
 
 ---
 
